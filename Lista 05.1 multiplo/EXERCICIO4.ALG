@@ -1,4 +1,6 @@
 Algoritmo "Exercicio4"
+// Disciplina   : [Linguagem e Lógica de Programação] 
+// Professor   : Antonio Carlos Nicolodi 
 //Desenvolver um programa que pergunte a sigla do estado de uma pessoa, a apresente as seguintes alternativas
 //como respostas: Carioca, Paulista, Mineiro, Outros Estados
 Var
