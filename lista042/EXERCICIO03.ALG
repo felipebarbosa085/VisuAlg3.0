@@ -1,4 +1,6 @@
 Algoritmo "Exercicio03"
+// Disciplina   : [Linguagem e Lógica de Programação] 
+// Professor   : Antonio Carlos Nicolodi 
 //Fazer um algoritmo que peça um número, e ao final, informe se o número está abaixo de 1000, entre 1000 e
 //5000, entre 5001 e 8000, ou acima de 8000.
 Var
